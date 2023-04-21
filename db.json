@@ -2,6 +2,14 @@
   "posts": [
     { "id": 1, "title": "json-server", "author": "typicode" }
   ],
+  "users":[
+    {
+      "id": 1,
+      "name": "admin",
+      "email": "eve.holt@reqres.in",
+      "password": "cityslicka",
+    }
+  ]
   "dogs": [
     {
       "id": 1,
